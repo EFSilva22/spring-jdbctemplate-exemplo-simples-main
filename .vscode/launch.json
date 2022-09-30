@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JdbctemplateApplication<jdbctemplate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.edu.iftm.jdbctemplate.JdbctemplateApplication",
+            "projectName": "jdbctemplate",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
